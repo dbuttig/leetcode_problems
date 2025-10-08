@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dbuttig/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dbuttig/leetcode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dbuttig/leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dbuttig/leetcode_problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dbuttig/leetcode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dbuttig/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
