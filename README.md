@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dbuttig/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dbuttig/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/dbuttig/leetcode_problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dbuttig/leetcode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dbuttig/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dbuttig/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dbuttig/leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/dbuttig/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/dbuttig/leetcode_problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dbuttig/leetcode_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
